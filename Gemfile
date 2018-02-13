@@ -20,6 +20,8 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'therubyracer', platforms: :ruby
 gem 'devise', '~> 4.2'
 
+gem 'bootstrap', '~> 4.0.0'
+
 gem 'activerecord', '~> 5.0', '>= 5.0.0.1'
 
 # Use CoffeeScript for .coffee assets and views
